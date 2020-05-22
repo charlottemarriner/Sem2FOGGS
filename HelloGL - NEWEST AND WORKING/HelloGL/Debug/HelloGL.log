@@ -1,0 +1,24 @@
+﻿  HelloGL.cpp
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\Sun.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(21,16): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(21,16): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(133,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(134,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(135,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(137,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(138,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(139,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(141,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(142,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\HelloGL.cpp(143,30): warning C4305: '=': truncation from 'double' to 'float'
+  Sun.cpp
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\Sun.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\Sun.cpp(38,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\Sun.cpp(38,57): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\Sun.cpp(38,86): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\Sun.cpp(39,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\Sun.cpp(39,57): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\HelloGL\Sun.cpp(39,86): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  HelloGL.vcxproj -> C:\Users\Charlotte\OneDrive - Staffordshire University\SEMESTER 2\FOGGS\HelloGL - NEWEST AND WORKING\Debug\HelloGL.exe
